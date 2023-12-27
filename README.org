@@ -1,0 +1,9 @@
+#+title: ob-lean4
+* Usage
+Add the following to your ~init.el~ file:
+
+#+begin_src emacs-lisp
+  (use-package ob-lean4
+      :load-path "/path/to/ob-lean4")
+  (add-to-list 'org-babel-load-languages '(lean4 . t))
+#+end_src
