@@ -1,4 +1,4 @@
-;;; ob-lean4.el --- org-babel functions for lean4 evaluation
+;;; ob-lean4.el --- org-babel functions for lean4 evaluation -*- lexical-binding: nil; -*-
 
 ;; Copyright (C) Zheng Qu
 
